@@ -1,0 +1,10 @@
+{
+	"Name": "StardewValleyMod",
+	"Author": "Iwan",
+	"Version": "0.0.1",
+	"Description": "trying to make a Stardew Valley mod",
+	"UniqueID": "Iwan.StardewValleyMod",
+	"EntryDll": "StardewValleyMod.dll",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": []
+}
